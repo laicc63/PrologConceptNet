@@ -25,3 +25,9 @@ read as: English_word_1       name_of_relation         English_word_2
 
 example:
 a('DefinedAs', 'baby', 'very_young_child').
+
+======================
+note
+
+* is ' in a contant(an English word/phrase)
+
