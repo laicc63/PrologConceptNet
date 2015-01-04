@@ -29,5 +29,5 @@ a('DefinedAs', 'baby', 'very_young_child').
 ======================
 note
 
-"*" is "'" in a contant(an English word/phrase)
+single quotes(') in a constant (an English word/phrase) is represented as an asterisk(*)
 
