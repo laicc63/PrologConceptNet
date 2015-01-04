@@ -9,9 +9,9 @@ Only necesary data is preserved in the prolog version
 
   *for now, it is including only relations in English language
 
-  *it is ignoring additional information that has irregular formats
+  *it is ignoring rows having irregular formats
   
-  *it contains only relation between two English words/phrases, other data like source is filtered out
+  *it contains only relation between two English words/phrases, other data like source are filtered out
 
 The Prolog version of ConceptNet is parsed from the .csv format of the database
 
